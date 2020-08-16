@@ -6,9 +6,9 @@ Android is a mobile operating system based on a modified version of the Linux ke
 ## Procedures For Creating an App
 1. Open Android Studio and click start a new android project
 2. Choose an activity template from the given templates
-<img src="./images/chooseActivity.png" height="200px">
+<img src="./images/chooseActivity.png" height="400px">
 3. Enter the name of your application, package name(use the default company domain or create your own company domain), save location, and your prefered language(Kotlin or Java). Choose the minimum SDK version that your app supports. Normally __API 15: Android 4.0.3 (IceCreamSandwich)__ is selected by default. This will ensure that your app will run on almost 100% of devices.
-<img src="./images/configureProject.png" height="200px">
+<img src="./images/configureProject.png" height="400px">
 
 ## App Structure
 Viewing the app in the standard Android project hierarchy, one sees an app folder and a Gradle Scripts folder. Under the app folder, there is a __manifests__ folder, a __java__ folder, and a __res__ folder. 
